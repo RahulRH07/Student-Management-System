@@ -1,0 +1,126 @@
+****Student Table values:****
+
+insert into student values("2KA19CS035","PrathapMurari","CSE","6th",9731878747,"itsprathapmurari@gmail.com","Bellary","Bellary Big vegtables market");
+insert into student values("2KA19CS041","RahulHarashetti","CSE","6th",7899966599,"rahulrh0007@gmail.com","Hubli","Goukal Road Hubli");
+insert into student values("2KA19CS004","Ambika","CSE","6th",8431193220,"ambika@gmail.com","RNR","RNR city");
+insert into student values("2KA19EE018","Pavan","EEE","6th",8546883128,"pavankumar@gmail.com","Lakshmeshwar","LXR City");
+insert into student values("2KA19EE014","Karthik","EEE","6th",8073127090,"karthik@gmail.com","Haveri","Haveri City");
+insert into student values("2KA19CS020","Kaveri","CSE","6th",8090456789,"kaveri@gmail.com","Lakshmeshwara","LXR city");
+insert into student values("2KA19CS020","Kaveri","CSE","6th",8090456789,"kaveri@gmail.com","Lakshmeshwara","LXR city");
+insert into student values("2KA20CS0401","MeghaKarki","CSE","6th",7899824334,"Megha@gmail.com","Lakshmeshwara","LXR city");
+insert into student values("2KA19CS052","Shreedevi","CSE","6th",9353203460,"shree@gmail.com","Gadag","Gadag city");
+insert into student values("2KA19CS057","Tanusha","CSE","6th",8088385124,"tanusha@gmail.com","Lakshmeshwara","LXR city");
+insert into student values("2KA19CS012","Divya","CSE","6th",8088235031,"divyashree@gmail.com","Lakshmeshwara","LXR city");
+insert into student values("2KA19CS007","Apoorva","CSE","6th",9380227781,"apoorva@gmail.com","Lakshmeshwara","LXR city");
+insert into student values("2KA19CS024","Mallikarjun","CSE","6th",8073960573,"mallik@gmail.com","Lakshmeshwara","LXR city");
+
+
+****Staff Table Values****
+
+insert into staff values("s10011","Rahul","CSE",78996131201,"rahulrh0007@gmail.com","HOD","Phd in CSE","Hubli","2002","Hubli Goukl road","Artificial Intelligence");
+insert into staff values("s10022","Vidyadhar","CSE",7891318787,"vidya@gmail.com","Assent Prof","M-Tech","Baydge","2009","Lxr city pump circle","Machine Design");
+insert into staff values("s10033","Manoj","MECH",7337796067,"manoj@gmail.com","HOD","Phd","Lakshmeshwar","2004","Lxr city","Fluid Mechanics");
+insert into staff values("s10044","pavan","EEE",8546883128,"pavan@gmail.com","HOD","Phd","Lakshmeshwar","2002","Lxr city","Communications");
+insert into staff values("s10055","Basveesh","MECH",8217551278,"Basveesh@gmail.com","prof","M-Tech","Lakshmeshwar","2009","Lxr city","Thermal Engineering.");
+insert into staff values("s10066","Karthik","CIVIL",9731878747,"Karthik@gmail.com","HOD","Phd","Haveri","2000","Gandhi Nagar city","Structural engineering");
+insert into staff values("s10077","Mahesh","ISE",9986438946,"Mahiesh@gmail.com","HOD","Phd","Chinchlli","2004","Gadag city","Computer Graphics");
+insert into staff values("s10088","Megha","ISE",7899824334,"Megha@gmail.com","Prof","M-Tech","Lakshmeshwar","2011","LXR city","Data Science");
+insert into staff values("s10099","Tanusha","MECH",8088385124,"Tanusha@gmail.com","Prof","M-Tech","Lakshmeshwar","2012","LXR city","Automation and Control");
+insert into staff values("s10100","Shreedevi","CIVIL",9353203460,"Shreedevi@gmail.com","Prof","M-Tech","Gadag","2015","Gadag city","Geotechnical engineering");
+
+****Internal_marks Table Values****
+
+insert into internal_marks values("2KA19CS035","SSC","2022-08-26",100,80);
+insert into internal_marks values("2KA19CS035","JAVA","2022-08-27",100,70);
+insert into internal_marks values("2KA19CS035","WEB","2022-08-28",100,72);
+insert into internal_marks values("2KA19CS041","SSC","2022-08-26",100,85);
+insert into internal_marks values("2KA19CS041","JAVA","2022-08-26",100,80);
+insert into internal_marks values("2KA19CS041","WEB","2022-08-28",100,69);
+insert into internal_marks values("2KA19EE018","AEE","2022-07-27",100,80);
+insert into internal_marks values("2KA19CV018","MEE","2022-08-28",100,60);
+insert into internal_marks values("2KA18CV007","OOC","2019-02-16",100,64);
+insert into internal_marks values("2KA18IS007","ATC","2019-05-17",100,79);
+
+
+****Attendance Table Values****
+
+
+insert into attendance values("2KA19CS035","SE","2022-08-26",40,36,4,"Aug");
+insert into attendance values("2KA19CS035","JAVA","2022-08-10",40,39,1,"Aug");
+insert into attendance values("2KA19CS041","OS","2022-06-26",40,38,2,"Jun");
+insert into attendance values("2KA19CS041","SSC","2022-06-27",40,29,11,"Jun");
+insert into attendance values("2KA18ME001","FM","2019-09-26",36,30,6,"Sep");
+insert into attendance values("2KA18ME001","ATD","2019-08-26",40,35,5,"Aug");
+insert into attendance values("2KA19EE018","AEE","2022-01-26",35,30,5,"Jan");
+insert into attendance values("2KA19EE018","MIE","2022-02-14",40,31,9,"Feb");
+insert into attendance values("2KA18IS014","DS","2019-05-16",25,15,10,"May");
+insert into attendance values("2KA18IS014","OOC","2019-04-12",40,32,8,"Apr");
+insert into attendance values("2KA19CS024","JAVA","2022-08-11"40,34,1,"Aug");
+insert into attendance values("2KA19CS020","JAVA","2022-08-18",40,25,5,"Aug");
+insert into attendance values("2KA19CS004","JAVA","2022-08-15",40,34,6,"Aug");
+
+****Exam_seat Table Values****
+
+insert into exam_seat values("2KA19CS035","2022-08-26","AI-ML",15,18);
+insert into exam_seat values("2KA19CS041","2022-08-26","AI-ML",15,22);
+insert into exam_seat values("2KA19CS004","2022-08-26","AI-ML",14,07);
+insert into exam_seat values("2KA19CS020","2022-08-26","AI-ML",14,17);
+insert into exam_seat values("KA20CS0401","2022-08-26","AI-ML",16,15);
+insert into exam_seat values("KA19CS012","2022-08-26","AI-ML",14,14);
+insert into exam_seat values("KA19CS057","2022-08-26","AI-ML",16,22);
+insert into exam_seat values("KA19CS052","2022-08-26","AI-ML",16,20);
+insert into exam_seat values("KA19EE018","2022-06-20","AEE",10,01);
+insert into exam_seat values("KA19EE014","2022-06-20","AEE",09,09);
+
+
+Queries:
+
+1) SQL query to display number of student in CSE department.
+
+select count(branch) from student where branch='CSE';
+
+
+2) SQL query to list the students in 6th sem.
+
+SELECT * FROM `student` WHERE branch="CSE" AND sem='6th';
+
+
+3) SQL query to display the details of students coming from Hubli.
+
+select * from student where city='Hubli';
+
+
+4) SQL query to display the usn of 6th sem students.
+
+SELECT DISTINCT(usn) FROM `student` WHERE sem='6TH';
+
+
+5) SQL query to display the details of staff of cse dept.
+
+SELECT DISTINCT * FROM staff WHERE dept='CSE';
+
+
+6) SQL query to display HOd of all dept.
+
+SELECT DISTINCT * FROM staff WHERE designation='HOD';
+
+
+7) SQL query to display staff who joined recently.
+
+select DISTINCT * from staff WHERE year_of_joining BETWEEN 2012 and 2015;
+
+
+8) SQL query to display staff specialized in Communications.
+
+select DISTINCT * from staff WHERE specialization='Communications';
+
+
+9) SQL query to display students JAVA subject Attendance.
+
+SELECT st.* ,att.* FROM student st,attendance att where att. sub_name='JAVA' and st.usn=att.usn;
+
+
+10) SQL query to display attendance shortage of JAVA.
+
+
+
